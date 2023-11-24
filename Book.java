@@ -65,4 +65,4 @@ public class Book
   }
     return rating;
 }
-}
+} 
